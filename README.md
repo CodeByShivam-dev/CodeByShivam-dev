@@ -7,6 +7,7 @@ A backend developer from India <img src="https://static.vecteezy.com/system/reso
   <a href="https://www.linkedin.com/in/shivam-kumar-1147a934b/"><img src="https://img.shields.io/badge/LinkedIn-Shivam%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:shivamkumar.dev2006@gmail.com"><img src="https://img.shields.io/badge/Email-shivamkumar.dev2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/CodeByShivam-dev"><img src="https://img.shields.io/badge/GitHub-CodeByShivam-dev-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://komarev.com/ghpvc/?username=CodeByShivam-dev"><img src="https://img.shields.io/badge/Profile-Views-blue?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -20,7 +21,7 @@ I enjoy designing solutions that can handle real-world load and grow with evolvi
 - Developed **VaultX** — Java Banking System with Spring Boot integration  
 - Strong fundamentals in **Java, Spring Boot, REST APIs, Security & System Design**  
 - Exploring **JWT, MySQL, Docker, Kubernetes**  
-- 2025 Goal — Ship **5 real-world projects** + solve **150 DSA problems**
+
 
 ---
 
@@ -35,14 +36,14 @@ I enjoy designing solutions that can handle real-world load and grow with evolvi
 | **Tools** | Git, Maven, IntelliJ IDEA, Postman |
 
 ---
-
 ## Featured Projects
 
 | Project | Description | Stack | Demo / Repo |
 |--------|-------------|-------|-------------|
-| **[VaultX](https://github.com/CodeByShivam-dev/Vault-X)** | Core Java Banking System with concurrency-safe transactions and OTP verification. | Java, Spring Boot, REST APIs, Security | [Repo](https://github.com/CodeByShivam-dev/Vault-X) |
+| **[VaultX](https://github.com/CodeByShivam-dev/Vault-X)** | Secure Java banking system with OTP-verified sign-up, JWT login, concurrency-safe transactions, and recent transaction dashboard. | Java, Spring Boot, REST APIs, Security | [Repo](https://github.com/CodeByShivam-dev/Vault-X) |
 | **[DSA Vault](https://github.com/CodeByShivam-dev/DSA---Vault)** | Structured DSA learning repo based on NeetCode roadmap. | Java | [Repo](https://github.com/CodeByShivam-dev/DSA---Vault) |
-| **[PriceHawk](https://github.com/CodeByShivam-dev/PriceHawk)** | Real-time smartphone price analysis & tracking from Amazon/Flipkart/Croma. | Spring Boot, REST APIs | [Repo](https://github.com/CodeByShivam-dev/PriceHawk) |
+| **[PriceHawk](https://github.com/CodeByShivam-dev/PriceHawk)** | AI-powered smartphone price comparator aggregating real-time data from multiple stores, providing best deals and AI-generated buying verdicts. | Spring Boot, PostgreSQL, Redis, Hugging Face API | [Repo](https://github.com/CodeByShivam-dev/PriceHawk) |
+
 
 ---
 
@@ -82,4 +83,3 @@ I’m open to discussions about building **scalable backend systems, API design,
 **Code. Build. Evolve.**
 
 </div>
-
