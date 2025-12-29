@@ -48,32 +48,30 @@ I enjoy designing solutions that can handle real-world load and grow with evolvi
 | **Tools** | Git, Maven, IntelliJ IDEA, Postman |
 
 ---
-
 ## Featured Projects
 
-| Project | Description | Stack | Repo |
-|-------|------------|-------|------|
-| **VaultX** | Secure Java banking system with OTP-based signup, JWT auth, concurrency-safe transactions, and transaction history dashboard. | Java, Spring Boot, Security | [Repo](https://github.com/CodeByShivam-dev/Vault-X) |
-| **DSA Vault** | Structured DSA learning repository following NeetCode roadmap. | Java | [Repo](https://github.com/CodeByShivam-dev/DSA---Vault) |
-| **PriceHawk** | AI-powered smartphone price comparison platform aggregating real-time prices and generating AI-based buying verdicts. | Spring Boot, PostgreSQL, Redis, Hugging Face API | [Repo](https://github.com/CodeByShivam-dev/PriceHawk) |
+| Project | Description | Stack | Demo / Repo |
+|--------|-------------|-------|-------------|
+| **[VaultX](https://github.com/CodeByShivam-dev/Vault-X)** | Secure Java banking system with OTP-verified sign-up, JWT login, concurrency-safe transactions, and recent transaction dashboard. | Java, Spring Boot, REST APIs, Security | [Repo](https://github.com/CodeByShivam-dev/Vault-X) |
+| **[DSA Vault](https://github.com/CodeByShivam-dev/DSA---Vault)** | Structured DSA learning repo based on NeetCode roadmap. | Java | [Repo](https://github.com/CodeByShivam-dev/DSA---Vault) |
+| **[PriceHawk](https://github.com/CodeByShivam-dev/PriceHawk)** | AI-powered smartphone price comparator aggregating real-time data from multiple stores, providing best deals and AI-generated buying verdicts. | Spring Boot, PostgreSQL, Redis, Hugging Face API | [Repo](https://github.com/CodeByShivam-dev/PriceHawk) |
+
 
 ---
 
-## GitHub Stats
+### 📊 GitHub Activity
 
-<div align="center">
-  <img width="48%"
-       src="https://github-readme-stats.vercel.app/api?username=CodeByShivam-dev&show_icons=true&theme=react&border_radius=10&cache_seconds=1800" />
+<a href="https://github.com/CodeByShivam-dev">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByShivam-dev&show_icons=true&theme=default&hide_border=true" />
+</a>
 
-  <img width="48%"
-       src="https://streak-stats.demolab.com?user=CodeByShivam-dev&theme=dark&border_radius=10" />
+<a href="https://github.com/CodeByShivam-dev">
+  <img src="https://streak-stats.demolab.com?user=CodeByShivam-dev&theme=default&hide_border=true" />
+</a>
 
-  <br/>
-
-  <img width="48%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByShivam-dev&layout=compact&theme=react&border_radius=10&cache_seconds=1800" />
-</div>
-
+<a href="https://github.com/CodeByShivam-dev">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByShivam-dev&layout=compact&theme=default&hide_border=true" />
+</a>
 ---
 
 ## Contact
