@@ -59,20 +59,20 @@ I enjoy designing solutions that can handle real-world load and grow with evolvi
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Status
 
-<a href="https://github.com/CodeByShivam-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByShivam-dev&show_icons=true&theme=default&hide_border=true" />
-</a>
+<p align="center">
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=CodeByShivam-dev&show_icons=true&theme=transparent&hide_border=true" />
+  <img width="48%" 
+       src="https://streak-stats.demolab.com?user=CodeByShivam-dev&theme=transparent&hide_border=true" />
+</p>
 
-<a href="https://github.com/CodeByShivam-dev">
-  <img src="https://streak-stats.demolab.com?user=CodeByShivam-dev&theme=default&hide_border=true" />
-</a>
+<p align="center">
+  <img width="40%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByShivam-dev&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-<a href="https://github.com/CodeByShivam-dev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByShivam-dev&layout=compact&theme=default&hide_border=true" />
-</a>
----
 
 ## Contact
 
